@@ -1,20 +1,20 @@
 # Hello! 👋 my name is Vitaliy Pavlov
 
 ## 🚀 About Me
-- 💻 I'm a Data Scientist with experience in data analysis, machine learning, d.
-- 🌱 Currently learning advanced deep learning techniques and MLOps practices.
-- 📫 Reach me at: 8800387@gmail.com, [@pavlovvf](https://t.me/pavlovvf)
+- I'm a Data Scientist with experience in data analysis, machine learning, d.
+- Currently learning advanced deep learning techniques and MLOps practices.
+- Reach me at: 8800387@gmail.com, [@pavlovvf](https://t.me/pavlovvf)
 
 ---
 
 ## 🛠️ Tech Stack
-- 💻 Programming Languages: Python, SQL, learning C++
-- 📊 Data Analysis: Pandas, NumPy, Scipy
-- 🧠 Machine Learning: Scikit-learn, ClassicML, CatBoost
-- 🤖 Deep Learning: PyTorch
-- 🗃️ Data Visualization: Matplotlib, Seaborn, Plotly
-- 📝 Data Processing: Learning Apache Spark, Lerning Dask
-- ⚙️ Tools: Jupyter Notebook, Google Colab, VS Code, PyCharm
+- Programming Languages: Python, SQL, learning C++
+- Data Analysis: Pandas, NumPy, Scipy
+- Machine Learning: Scikit-learn, ClassicML, CatBoost
+- Deep Learning: PyTorch
+- Data Visualization: Matplotlib, Seaborn, Plotly
+- Data Processing: Learning Apache Spark, Lerning Dask
+- Tools: Jupyter Notebook, Google Colab, VS Code, PyCharm
 
 ---
 
