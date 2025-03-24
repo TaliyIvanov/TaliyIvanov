@@ -1,9 +1,10 @@
 # Hello! 👋 my name is Vitaliy Pavlov
 
 ## 🚀 About Me
-- I'm a Data Scientist with experience in data analysis, machine learning, d.
-- Currently learning advanced deep learning techniques and MLOps practices.
-- Reach me at: 8800387@gmail.com, [@pavlovvf](https://t.me/pavlovvf)
+- I'm a Data Scientist with experience in data analysis, machine learning;
+- MIPT graduate in 2024;
+- Currently studying advanced deep learning techniques, as well as algorithms and data structures;
+- Reach me at: 8800387@gmail.com, [Telegram](https://t.me/pavlovvf).
 
 ---
 
