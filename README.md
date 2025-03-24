@@ -31,7 +31,8 @@
 
 ## 💼 PetProjects
 ### Classic ML
-1. **[Predicting Customer Churn](https://github.com/TaliyIvanov/PetProjects/tree/main/ClassicML/01.A-Money)** — [
+1. **[ML Algorithms](https://github.com/TaliyIvanov/AlgorithmsML)** — Coding Classic ML Algorithms on Python.
+2. **[Predicting Customer Churn](https://github.com/TaliyIvanov/PetProjects/tree/main/ClassicML/01.A-Money)** — [
 Competition on Kaggle](https://www.kaggle.com/competitions/adengi-internship).
 
 
