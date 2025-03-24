@@ -25,13 +25,13 @@
 - Feature Engineering
 - Building Machine Learning Models
 - Deep Learning and Neural Networks
-- Natural Language Processing (NLP)
+- Classic ML, NLP, CV, Audio(TTS, ASR)
 
 ---
 
 ## 💼 PetProjects
 ### Classic ML
-1. **[Название проекта 1](ссылка)** — About project.
+1. **[Predicting Customer Churn](https://github.com/TaliyIvanov/PetProjects/tree/main/ClassicML/01.A-Money)** — Predicting Customer Churn
 2. **[Название проекта 2](ссылка)** — About project.
 3. **[Название проекта 3](ссылка)** — About project.
 
