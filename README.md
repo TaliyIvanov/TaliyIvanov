@@ -46,11 +46,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TaliyIvanov&show_icons=true&theme=radical)
-
----
-
 ## 💬 Contacts
 - LinkedIn: [Link](https://www.linkedin.com/in/talium/)
 - Mail: 8800387@gmail.com
