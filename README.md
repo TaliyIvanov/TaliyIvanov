@@ -31,7 +31,8 @@
 
 ## 💼 PetProjects
 ### Classic ML
-1. **[Predicting Customer Churn](https://github.com/TaliyIvanov/PetProjects/tree/main/ClassicML/01.A-Money)** — Predicting Customer Churn
+1. **[Predicting Customer Churn](https://github.com/TaliyIvanov/PetProjects/tree/main/ClassicML/01.A-Money)** — [
+Competition on Kaggle](https://www.kaggle.com/competitions/adengi-internship)
 2. **[Название проекта 2](ссылка)** — About project.
 3. **[Название проекта 3](ссылка)** — About project.
 
