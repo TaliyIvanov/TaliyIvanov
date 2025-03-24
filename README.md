@@ -3,7 +3,7 @@
 ## 🚀 About Me
 - 💻 I'm a Data Scientist with experience in data analysis, machine learning, d.
 - 🌱 Currently learning advanced deep learning techniques and MLOps practices.
-- 📫 Reach me at: [8800387@gmail.com], [@username](https://t.me/pavlovvf)
+- 📫 Reach me at: 8800387@gmail.com, [@pavlovvf](https://t.me/pavlovvf)
 
 ---
 
@@ -53,6 +53,6 @@
 
 ## 💬 Contacts
 - LinkedIn: [Link](https://www.linkedin.com/in/talium/)
-- Mail: [8800387@gmail.com]
-- Telegram: [@username](https://t.me/pavlovvf)
+- Mail: 8800387@gmail.com
+- Telegram: [@pavlovvf](https://t.me/pavlovvf)
 - LeetCode: [Link](https://leetcode.com/u/TaliyIvanov/)
