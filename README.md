@@ -32,19 +32,17 @@
 ## 💼 PetProjects
 ### Classic ML
 1. **[Predicting Customer Churn](https://github.com/TaliyIvanov/PetProjects/tree/main/ClassicML/01.A-Money)** — [
-Competition on Kaggle](https://www.kaggle.com/competitions/adengi-internship)
-2. **[Название проекта 2](ссылка)** — About project.
-3. **[Название проекта 3](ссылка)** — About project.
+Competition on Kaggle](https://www.kaggle.com/competitions/adengi-internship).
+
 
 ### CV
-1. **[Название проекта 1](ссылка)** — About project.
-2. **[Название проекта 2](ссылка)** — About project.
-3. **[Название проекта 3](ссылка)** — About project.
+1. **[Base CV](https://github.com/TaliyIvanov/CNN-with-PyTorch-VGG-ResNet-UNet-)** — Study of VGG, ResNet, UNet architectures.
+2. **[Classification Images](https://github.com/TaliyIvanov/PetProjects/tree/main/CV/01.Classification_Images)** — Classification images with Transfer Learning VGG, ResNet and Yolo11.
 
 ### Audio
-1. **[Название проекта 1](ссылка)** — About project.
-2. **[Название проекта 2](ссылка)** — About project.
-3. **[Название проекта 3](ссылка)** — About project.
+1. **[ASR with Whisper](https://colab.research.google.com/drive/1Cq1whnNRWOI4RqNJjA2uWk5K7a_oWJnm?usp=sharing)** — Research solution to TTS, Additional training of the Whisper model or Russian language.
+2. **[ASR with DeepSpeech2 (russian)](https://github.com/TaliyIvanov/PetProjects/tree/main/Audio/03.%20ASR)** — Creating and teaching deepspecch2 architecture in Russian language.
+3. **[ASR with DeepSpeech2 (english)](https://github.com/TaliyIvanov/PetProjects/tree/main/Audio/04.ASR_DeepSpeech2_English)** — Creating and teaching deepspecch2 architecture in English language.
 
 ---
 
