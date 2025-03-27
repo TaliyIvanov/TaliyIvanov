@@ -35,7 +35,6 @@
 2. **[Predicting Customer Churn](https://github.com/TaliyIvanov/PetProjects/tree/main/ClassicML/01.A-Money)** — [
 Competition on Kaggle](https://www.kaggle.com/competitions/adengi-internship).
 
-
 ### CV
 1. **[Base CV](https://github.com/TaliyIvanov/CNN-with-PyTorch-VGG-ResNet-UNet-)** — Study of VGG, ResNet, UNet architectures.
 2. **[Classification Images](https://github.com/TaliyIvanov/PetProjects/tree/main/CV/01.Classification_Images)** — Classification images with Transfer Learning VGG, ResNet and Yolo11.
@@ -45,6 +44,10 @@ Competition on Kaggle](https://www.kaggle.com/competitions/adengi-internship).
 2. **[ASR with DeepSpeech2 (russian)](https://github.com/TaliyIvanov/PetProjects/tree/main/Audio/03.%20ASR)** — Creating and teaching deepspecch2 architecture in Russian language.
 3. **[ASR with DeepSpeech2 (english)](https://github.com/TaliyIvanov/PetProjects/tree/main/Audio/04.ASR_DeepSpeech2_English)** — Creating and teaching deepspecch2 architecture in English language.
 
+### Algorithms & DataStructures
+1. **[Algorithms](https://github.com/TaliyIvanov/Algorithms)** — Implementing Algorithms in Python.
+2. **[DataStructures](https://github.com/TaliyIvanov/DataStructures)** — Implementing Data Structures in Python
+ 
 ---
 
 ## 💬 Contacts
