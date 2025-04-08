@@ -1,6 +1,6 @@
 # Hello! 👋 my name is Vitaliy Pavlov
 
-## 💬 Contacts
+## 💬 Contacts & Social Media
 - LinkedIn: [Link](https://www.linkedin.com/in/talium/)
 - Mail: 8800387@gmail.com
 - Telegram: [@pavlovvf](https://t.me/pavlovvf)
