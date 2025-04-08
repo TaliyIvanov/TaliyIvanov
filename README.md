@@ -1,5 +1,13 @@
 # Hello! 👋 my name is Vitaliy Pavlov
 
+## 💬 Contacts
+- LinkedIn: [Link](https://www.linkedin.com/in/talium/)
+- Mail: 8800387@gmail.com
+- Telegram: [@pavlovvf](https://t.me/pavlovvf)
+- LeetCode: [Link](https://leetcode.com/u/TaliyIvanov/)
+
+---
+
 ## 🚀 About Me
 - I'm a Data Scientist with experience in data analysis, machine learning;
 - MIPT graduate in 2024;
@@ -47,11 +55,3 @@ Competition on Kaggle](https://www.kaggle.com/competitions/adengi-internship).
 ### Algorithms & DataStructures
 1. **[Algorithms](https://github.com/TaliyIvanov/Algorithms)** — Implementing Algorithms in Python.
 2. **[DataStructures](https://github.com/TaliyIvanov/DataStructures)** — Implementing Data Structures in Python
- 
----
-
-## 💬 Contacts
-- LinkedIn: [Link](https://www.linkedin.com/in/talium/)
-- Mail: 8800387@gmail.com
-- Telegram: [@pavlovvf](https://t.me/pavlovvf)
-- LeetCode: [Link](https://leetcode.com/u/TaliyIvanov/)
