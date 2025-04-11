@@ -46,7 +46,7 @@ Competition on Kaggle](https://www.kaggle.com/competitions/adengi-internship).
 ### CV
 1. **[Base CV](https://github.com/TaliyIvanov/CNN-with-PyTorch-VGG-ResNet-UNet-)** — Study of VGG, ResNet, UNet architectures.
 2. **[Classification Images](https://github.com/TaliyIvanov/PetProjects/tree/main/CV/01.Classification_Images)** — Classification images with Transfer Learning VGG, ResNet and Yolo11.
-3. [Yandex ML Trainings 3.0](https://github.com/TaliyIvanov/PetProjects/tree/main/CV/02.ML%20trainings%203.0%20Yandex%20)
+3. **[Yandex ML Trainings 3.0](https://github.com/TaliyIvanov/PetProjects/tree/main/CV/02.ML%20trainings%203.0%20Yandex%20)**
 
 ### Audio
 1. **[ASR with Whisper](https://colab.research.google.com/drive/1Cq1whnNRWOI4RqNJjA2uWk5K7a_oWJnm?usp=sharing)** — Research solution to TTS, Additional training of the Whisper model or Russian language.
