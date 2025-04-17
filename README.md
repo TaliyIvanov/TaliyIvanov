@@ -52,6 +52,7 @@ Competition on Kaggle](https://www.kaggle.com/competitions/adengi-internship).
 1. **[ASR with Whisper](https://colab.research.google.com/drive/1Cq1whnNRWOI4RqNJjA2uWk5K7a_oWJnm?usp=sharing)** — Research solution to TTS, Additional training of the Whisper model or Russian language.
 2. **[ASR with DeepSpeech2 (russian)](https://github.com/TaliyIvanov/PetProjects/tree/main/Audio/03.%20ASR)** — Creating and teaching deepspecch2 architecture in Russian language.
 3. **[ASR with DeepSpeech2 (english)](https://github.com/TaliyIvanov/PetProjects/tree/main/Audio/04.ASR_DeepSpeech2_English)** — Creating and teaching deepspecch2 architecture in English language.
+4. **[MorzeDecoder](https://github.com/TaliyIvanov/PetProjects/tree/main/Audio/05.MorzeDecoder)** - SimpleProject to Decode audio signals MorzeCode to Russian language.
 
 ### Algorithms & DataStructures
 1. **[Algorithms](https://github.com/TaliyIvanov/Algorithms)** — Implementing Algorithms in Python.
