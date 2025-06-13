@@ -48,6 +48,8 @@ Competition on Kaggle](https://www.kaggle.com/competitions/adengi-internship).
 2. **[Classification Images](https://github.com/TaliyIvanov/PetProjects/tree/main/CV/01.Classification_Images)** — Classification images with Transfer Learning VGG, ResNet and Yolo11.
 3. **[Yandex ML Trainings 3.0](https://github.com/TaliyIvanov/PetProjects/tree/main/CV/02.ML%20trainings%203.0%20Yandex%20)**
 4. **[Semantic Segmentation](https://github.com/TaliyIvanov/PetProjects/tree/main/CV/03.Semantic%20Segmentation)** - Semantic Segmentation with SegNet & U-net architectures.
+5. **[Car Counter](https://github.com/TaliyIvanov/PetProjects/tree/main/CV/05.ObjectDetection/03.CarCounter)** - A basic project of counting the number of autos on a highway. Use Yolo8, OpenCV.
+6. **[People Counter](https://github.com/TaliyIvanov/PetProjects/tree/main/CV/05.ObjectDetection/04.PeopleCounter)** - A basic project of counting the number of peoples in subway. Use Yolo8, OpenCV.
 
 ### Audio
 1. **[ASR with Whisper](https://colab.research.google.com/drive/1Cq1whnNRWOI4RqNJjA2uWk5K7a_oWJnm?usp=sharing)** — Research solution to TTS, Additional training of the Whisper model or Russian language.
