@@ -51,6 +51,7 @@ Competition on Kaggle](https://www.kaggle.com/competitions/adengi-internship).
 5. **[Car Counter](https://github.com/TaliyIvanov/PetProjects/tree/main/CV/05.ObjectDetection/03.CarCounter)** - A basic project of counting the number of autos on a highway. Use Yolo8, OpenCV.
 6. **[People Counter](https://github.com/TaliyIvanov/PetProjects/tree/main/CV/05.ObjectDetection/04.PeopleCounter)** - A basic project of counting the number of peoples in subway. Use Yolo8, OpenCV.
 7. **[Car numbers detector](https://github.com/TaliyIvanov/PetProjects/tree/main/CV/06.CarNumbersWithYolo)** - Project to detector the cars numbers Yolo8 + EasyOCR.
+8. **[Russian Cars License Plate Detector](https://github.com/TaliyIvanov/PetProjects/tree/main/CV/07.CarNumberPlates)** - Detects the number, recognizes it, makes a request to the cloud database, returns a response. (OpenCV, Yolo8, EacyOCR, Firebase)
 
 ### Audio
 1. **[ASR with Whisper](https://colab.research.google.com/drive/1Cq1whnNRWOI4RqNJjA2uWk5K7a_oWJnm?usp=sharing)** — Research solution to TTS, Additional training of the Whisper model or Russian language.
