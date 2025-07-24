@@ -26,11 +26,6 @@
 ---
 
 ## PetProjects
-### Classic ML
-1. **[ML Algorithms](https://github.com/TaliyIvanov/AlgorithmsML)** — Coding Classic ML Algorithms on Python.
-2. **[Predicting Customer Churn](https://github.com/TaliyIvanov/PetProjects/tree/main/ClassicML/01.A-Money)** — [
-Competition on Kaggle](https://www.kaggle.com/competitions/adengi-internship).
-
 ### CV
 1. **[Base CV](https://github.com/TaliyIvanov/CNN-with-PyTorch-VGG-ResNet-UNet-)** — Study of VGG, ResNet, UNet architectures.
 2. **[Classification Images](https://github.com/TaliyIvanov/PetProjects/tree/main/CV/01.Classification_Images)** — Classification images with Transfer Learning VGG, ResNet and Yolo11.
@@ -41,6 +36,11 @@ Competition on Kaggle](https://www.kaggle.com/competitions/adengi-internship).
 7. **[Car numbers detector](https://github.com/TaliyIvanov/PetProjects/tree/main/CV/06.CarNumbersWithYolo)** - Project to detector the cars numbers Yolo8 + EasyOCR.
 8. **[Russian Cars License Plate Detector](https://github.com/TaliyIvanov/PetProjects/tree/main/CV/07.CarNumberPlates)** - Detects the number, recognizes it, makes a request to the cloud database, returns a response. (OpenCV, Yolo8, EacyOCR, Firebase)
 9. **[binary segmentation of satellite frames](https://github.com/TaliyIvanov/PetProjects/tree/main/CV/08.Segmentation)** - The model receives a snapshot and returns a binary mask with segmentation of houses.
+
+### Classic ML
+1. **[ML Algorithms](https://github.com/TaliyIvanov/AlgorithmsML)** — Coding Classic ML Algorithms on Python.
+2. **[Predicting Customer Churn](https://github.com/TaliyIvanov/PetProjects/tree/main/ClassicML/01.A-Money)** — [
+Competition on Kaggle](https://www.kaggle.com/competitions/adengi-internship).
 
 ### Audio
 1. **[ASR with Whisper](https://colab.research.google.com/drive/1Cq1whnNRWOI4RqNJjA2uWk5K7a_oWJnm?usp=sharing)** — Research solution to TTS, Additional training of the Whisper model or Russian language.
