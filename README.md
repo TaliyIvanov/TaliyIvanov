@@ -17,11 +17,11 @@
 ---
 
 ## Tech Stack
-Core Stack: Python, PyTorch, learninig C/C++, Pandas, NumPy, Scikit-learn
-Computer Vision: OpenCV, Albumentations, Classic Algorithms, DL
-ML Engineering & MLOps: Docker, Docker Compose, FastAPI, Git, GitFlow, Linux, Hydra
-Model Optimization & Monitoring: TensorRT, ONNX, Prometheus, Grafana
-Data Tools: Matplotlib, CVAT, LabelStudio
+- Core Stack: Python, PyTorch, Learninig C/C++, Pandas, NumPy, Scikit-learn
+- Computer Vision: OpenCV, Albumentations, Classic Algorithms, DL
+- ML Engineering & MLOps: Docker, Docker Compose, FastAPI, Git, GitFlow, Linux, Hydra
+- Model Optimization & Monitoring: TensorRT, ONNX, Prometheus, Grafana
+- Data Tools: Matplotlib, CVAT, LabelStudio
 
 ---
 
