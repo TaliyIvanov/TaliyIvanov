@@ -1,6 +1,6 @@
-# Hello! 👋 my name is Vitaliy Pavlov
+# Hello! my name is Vitaliy Pavlov
 
-## 💬 Contacts & Social Media
+## Contacts & Social Media
 - LinkedIn: [Link](https://www.linkedin.com/in/talium/)
 - Mail: 8800387@gmail.com
 - Telegram: [@pavlovvf](https://t.me/pavlovvf)
@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 - I'm a Data Scientist with experience in data analysis, machine learning;
 - MIPT graduate in 2024;
 - Currently studying advanced deep learning techniques, as well as algorithms and data structures;
@@ -16,7 +16,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - Programming Languages: Python, SQL, learning C++
 - Data Analysis: Pandas, NumPy, Scipy
 - Machine Learning: Scikit-learn, ClassicML, CatBoost
@@ -27,7 +27,7 @@
 
 ---
 
-## 📝 Skills
+## Skills
 - Exploratory Data Analysis (EDA)
 - Data Cleaning and Preprocessing
 - Feature Engineering
@@ -37,7 +37,7 @@
 
 ---
 
-## 💼 PetProjects
+## PetProjects
 ### Classic ML
 1. **[ML Algorithms](https://github.com/TaliyIvanov/AlgorithmsML)** — Coding Classic ML Algorithms on Python.
 2. **[Predicting Customer Churn](https://github.com/TaliyIvanov/PetProjects/tree/main/ClassicML/01.A-Money)** — [
@@ -52,6 +52,7 @@ Competition on Kaggle](https://www.kaggle.com/competitions/adengi-internship).
 6. **[People Counter](https://github.com/TaliyIvanov/PetProjects/tree/main/CV/05.ObjectDetection/04.PeopleCounter)** - A basic project of counting the number of peoples in subway. Use Yolo8, OpenCV.
 7. **[Car numbers detector](https://github.com/TaliyIvanov/PetProjects/tree/main/CV/06.CarNumbersWithYolo)** - Project to detector the cars numbers Yolo8 + EasyOCR.
 8. **[Russian Cars License Plate Detector](https://github.com/TaliyIvanov/PetProjects/tree/main/CV/07.CarNumberPlates)** - Detects the number, recognizes it, makes a request to the cloud database, returns a response. (OpenCV, Yolo8, EacyOCR, Firebase)
+9. **[binary segmentation of satellite frames](https://github.com/TaliyIvanov/PetProjects/tree/main/CV/08.Segmentation)** - The model receives a snapshot and returns a binary mask with segmentation of houses.
 
 ### Audio
 1. **[ASR with Whisper](https://colab.research.google.com/drive/1Cq1whnNRWOI4RqNJjA2uWk5K7a_oWJnm?usp=sharing)** — Research solution to TTS, Additional training of the Whisper model or Russian language.
