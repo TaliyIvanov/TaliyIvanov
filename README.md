@@ -17,23 +17,11 @@
 ---
 
 ## Tech Stack
-- Programming Languages: Python, SQL, learning C++
-- Data Analysis: Pandas, NumPy, Scipy
-- Machine Learning: Scikit-learn, ClassicML, CatBoost
-- Deep Learning: PyTorch
-- Data Visualization: Matplotlib, Seaborn, Plotly
-- Data Processing: Learning Apache Spark, Lerning Dask
-- Tools: Jupyter Notebook, Google Colab, VS Code, PyCharm
-
----
-
-## Skills
-- Exploratory Data Analysis (EDA)
-- Data Cleaning and Preprocessing
-- Feature Engineering
-- Building Machine Learning Models
-- Deep Learning and Neural Networks
-- Classic ML, NLP, CV, Audio(TTS, ASR)
+Core Stack: Python, PyTorch, learninig C/C++, Pandas, NumPy, Scikit-learn
+Computer Vision: OpenCV, Albumentations, Classic Algorithms, DL
+ML Engineering & MLOps: Docker, Docker Compose, FastAPI, Git, GitFlow, Linux, Hydra
+Model Optimization & Monitoring: TensorRT, ONNX, Prometheus, Grafana
+Data Tools: Matplotlib, CVAT, LabelStudio
 
 ---
 
