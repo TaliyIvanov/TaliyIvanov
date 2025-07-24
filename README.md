@@ -1,4 +1,4 @@
-# Hello! my name is Vitaliy Pavlov
+# Hello! My name is Vitaliy Pavlov
 
 ## Contacts & Social Media
 - LinkedIn: [Link](https://www.linkedin.com/in/talium/)
